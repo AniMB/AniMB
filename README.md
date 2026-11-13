@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 🎓 I’m a Computer Engineering student at the University of Victoria passionate about systems engineering and space design  
-🔧 Currently the Software Lead at the UVic Satellite Design Team  
+🔧 Currently the FPGA Lead at the UVic Satellite Design Team  
 🛰️ Working on firmware for satellite simulations & telemetry systems  
 📡 Passionate about Embedded Systems, AI Security, VLSI, and Quantum Computing  
 🔬 Researching AI security in LIDAR  
